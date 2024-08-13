@@ -1,8 +1,3 @@
-# Title (replace with your title)
-
-Introductory paragraph (replace this with your text)
-
-## Summary
 
 ## Summary
 The regex pattern `/^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/` is commonly used to validate email addresses. It ensures that the email has a valid structure, such as `username@domain.com`.
